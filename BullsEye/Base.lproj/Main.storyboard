@@ -15,7 +15,7 @@
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
+                        <rect key="frame" x="0.0" y="0.0" width="736" height="414"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background" translatesAutoresizingMaskIntoConstraints="NO" id="16a-z0-liB"/>
@@ -169,7 +169,7 @@
                         <viewControllerLayoutGuide type="bottom" id="QBg-CW-Yjg"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="1KQ-Gm-GLE">
-                        <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
+                        <rect key="frame" x="0.0" y="0.0" width="736" height="414"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background" translatesAutoresizingMaskIntoConstraints="NO" id="EM0-kT-0ne"/>
@@ -200,7 +200,6 @@
                             <constraint firstItem="bAv-VZ-21t" firstAttribute="centerX" secondItem="1KQ-Gm-GLE" secondAttribute="centerX" id="Oa5-sO-Tkw"/>
                             <constraint firstAttribute="trailing" secondItem="M5a-Ey-7jK" secondAttribute="trailing" constant="20" id="Tss-8k-t9n"/>
                             <constraint firstItem="EM0-kT-0ne" firstAttribute="centerY" secondItem="1KQ-Gm-GLE" secondAttribute="centerY" id="qDr-Gl-GtA"/>
-                            <constraint firstItem="bAv-VZ-21t" firstAttribute="centerX" secondItem="1KQ-Gm-GLE" secondAttribute="centerX" id="tsF-uP-KC5"/>
                             <constraint firstItem="M5a-Ey-7jK" firstAttribute="leading" secondItem="1KQ-Gm-GLE" secondAttribute="leading" constant="20" id="yh2-Es-Xre"/>
                         </constraints>
                     </view>
